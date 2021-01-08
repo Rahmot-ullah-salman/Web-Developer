@@ -1,0 +1,51 @@
+*{padding:0;margin:0;}
+/* navbar start */
+.header-top{width:960px;
+margin:0 auto;}
+
+.nav{width:960px;background-color: #2a2b19;}
+
+.nav ul{padding:0;margin:0;}
+
+.nav ul li{list-style-type: none;display:inline-block;}
+
+.nav ul li a{display: block;padding:20px 25px;font-size: 20px;font-weight: bold;color:white;text-decoration: none;}
+.nav ul li a:hover{color:#A76D32;}
+/* navbar close */
+
+/* banner-cover strat */
+.banner-cover{position:relative;height:50vh;background-position: center;
+background-repeat: no-repeat;background-size: cover;}
+.text{padding:150px 40px;}
+.text p{font-weight: bold;font-size: 30px;text-transform: uppercase;color:white;}
+.text p:hover{color:pink;}
+/* banner-cover-close */
+
+/* side navbar start */
+h2{font-size: 20px;font-weight: bold;text-transform: uppercase;background:#000000;color:white ;
+width:380px;margin:0;padding:10px 0;letter-spacing: 2px;text-align: center;}
+.side-nav{width:380px;margin:0;background: #97a338;}
+.side-nav ul{padding:0;margin:0;}
+.side-nav ul li{list-style: none;}
+.side-nav ul li a{display:block;color:white;
+    font-size: 16px;font-weight: bold;text-decoration: none;
+    text-transform: capitalize;border-bottom:1px dotted white;
+padding:8px 15px;text-align: center;}
+.side-nav ul li a:hover{background-color: gray;color:pink;box-shadow: 3px 3px 5px black;}
+/* side navbar end */
+
+/* main content */
+.sidenavber-and-write{display: flex;}
+.left{float:left}
+.right{float:right;text-align: center;word-spacing: 7px;font-weight: bold;font-size: 18px;background-color: #76c35d;color:lightgray;padding:5px 10px;text-transform: capitalize;line-height: 23px;}
+.right h1{color:pink;}
+.right h3{color:black;}
+/* main content */
+/* fotter start */
+.contact{background:#2a2b19;text-align: center;position:relative;padding:20px;}
+.contact a:hover{color:#A76D32;text-decoration:underline;}
+.contact a{font-size:22px;text-decoration:none;color:rgb(254, 255, 255);font-weight:bold;}
+.clear-div{clear:both;}
+
+
+/* fotter start */
